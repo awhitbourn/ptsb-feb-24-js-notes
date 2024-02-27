@@ -194,6 +194,38 @@ console.log(2 === "2")
 */
 
 
+/* 
+    ? Modulo (%)
+    * remainder of long division
+*/
+
+console.log(12 / 3)
+console.log(12 % 3) // returns 0 because they go in perfectly
+console.log(12 % 5)
+
+/* 
+    ? Expressions
+    * unprocessed values grouped using the ( )
+    * evaluated to be truthy or falsey
+    * expressions evaluate
+*/
+
+console.log(Boolean(2 == 2));
+console.log(Boolean("Paul" == "paul"));
+
+/* 
+    ? Statements
+    * keyword
+    * expression
+    * code block
+    * statements evaluate and execute bcode block when invoked
+    
+    Ex: conditional statement
+
+    if (true) {
+        run this code
+    }
+*/
 
 
 
